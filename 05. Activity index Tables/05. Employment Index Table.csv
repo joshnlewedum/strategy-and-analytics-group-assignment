@@ -1,0 +1,34 @@
+Origin,Raw Score,Rebased Score,Grade,Activity Category
+Bromley,123217.0,2.819270349028767,F,Employment
+Bexley,133534.5,3.0553402243390275,F,Employment
+Hillingdon,171337.0,3.920281485440661,F,Employment
+Kingston upon Thames,185407.5,4.242221992400003,F,Employment
+Sutton,237917.5,5.443678658505334,F,Employment
+Ealing,273356.0,6.254530345075011,F,Employment
+Richmond upon Thames,308095.0,7.049377100432716,F,Employment
+Havering,408744.0,9.352279633032897,F,Employment
+Barnet,538456.5,12.320170469105793,E,Employment
+Greenwich,613977.0,14.04811958646644,E,Employment
+Hounslow,659483.5,15.089332455941252,E,Employment
+Barking and Dagenham,762785.5,17.45293703644045,E,Employment
+Redbridge,788890.5,18.050233289890834,E,Employment
+Enfield,983509.0,22.503207850401598,D,Employment
+Croydon,1007933.0,23.06204193177575,D,Employment
+Waltham Forest,1010790.0,23.12741160793387,D,Employment
+Harrow,1014555.0,23.213556805951136,D,Employment
+Merton,1176343.0,26.915352103910557,D,Employment
+Wandsworth,1234366.0,28.242949135665075,D,Employment
+Brent,1252050.5,28.647579880508715,D,Employment
+Newham,1498422.5,34.28470198566397,D,Employment
+Lewisham,1559226.5,35.67592977324479,D,Employment
+Hackney,1715689.0,39.25587480505788,D,Employment
+Lambeth,1750211.5,40.04576792552296,C,Employment
+Southwark,1772205.0,40.54899087707481,C,Employment
+Haringey,1828628.0,41.83997905973832,C,Employment
+Hammersmith and Fulham,1989527.5,45.521445006186894,C,Employment
+Tower Hamlets,2109101.5,48.25736158194159,C,Employment
+Camden,2506198.0,57.343140233857326,C,Employment
+Kensington and Chelsea,2535346.5,58.010073382438,C,Employment
+Islington,2589894.0,59.258149129807656,C,Employment
+Westminster,3237542.5,74.0766905051289,B,Employment
+City of London,4370528.0,100.0,A+,Employment

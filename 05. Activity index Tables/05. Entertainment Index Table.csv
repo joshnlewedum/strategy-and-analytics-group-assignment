@@ -1,0 +1,34 @@
+Origin,Raw Score,Rebased Score,Grade,Activity Category
+Hillingdon,196.5,4.958990536277603,F,Entertainment
+Bromley,201.0,5.072555205047319,F,Entertainment
+Havering,304.0,7.6719242902208205,F,Entertainment
+Bexley,388.0,9.79179810725552,F,Entertainment
+Kingston upon Thames,419.0,10.574132492113565,E,Entertainment
+Ealing,419.0,10.574132492113565,E,Entertainment
+Sutton,506.5,12.782334384858043,E,Entertainment
+Richmond upon Thames,536.0,13.526813880126182,E,Entertainment
+Barking and Dagenham,588.5,14.85173501577287,E,Entertainment
+Greenwich,608.0,15.343848580441641,E,Entertainment
+Barnet,703.0,17.741324921135647,E,Entertainment
+Redbridge,769.5,19.41955835962145,E,Entertainment
+Hounslow,892.0,22.51104100946372,D,Entertainment
+Croydon,989.0,24.958990536277604,D,Entertainment
+Enfield,1100.0,27.760252365930597,D,Entertainment
+Harrow,1201.5,30.321766561514195,D,Entertainment
+Merton,1277.0,32.22712933753943,D,Entertainment
+Brent,1289.0,32.52996845425867,D,Entertainment
+Waltham Forest,1348.0,34.018927444794954,D,Entertainment
+Wandsworth,1448.0,36.542586750788644,D,Entertainment
+Newham,1497.0,37.77917981072555,D,Entertainment
+Lewisham,1679.0,42.37223974763407,C,Entertainment
+Hackney,1893.0,47.77287066246057,C,Entertainment
+Southwark,1957.0,49.38801261829653,C,Entertainment
+Tower Hamlets,1980.0,49.968454258675074,C,Entertainment
+Lambeth,2026.5,51.14195583596215,C,Entertainment
+Haringey,2057.5,51.92429022082019,C,Entertainment
+Hammersmith and Fulham,2196.5,55.43217665615142,C,Entertainment
+Camden,2867.0,72.35331230283911,B,Entertainment
+Kensington and Chelsea,2948.5,74.41009463722398,B,Entertainment
+Islington,2978.5,75.16719242902208,B,Entertainment
+Westminster,3545.0,89.46372239747635,A,Entertainment
+City of London,3962.5,100.0,A+,Entertainment

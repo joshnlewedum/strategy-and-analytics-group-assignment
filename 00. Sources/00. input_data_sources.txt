@@ -1,0 +1,34 @@
+01. borough_centroids.csv:
+
+Created in QGIS using london boundaries found here:
+statistical-gis-boundaries-london - https://data.london.gov.uk/dataset/statistical-gis-boundary-files-london
+
+
+
+01. desination_education.csv:
+
+https://data.london.gov.uk/dataset/london-schools-atlas
+
+
+
+01. desination_health.csv:
+
+https://digital.nhs.uk/services/organisation-data-service/data-downloads/gp-and-gp-practice-related-data
+
+
+
+01. desination_entertainment.csv:
+
+https://data.world/getthedata/open-pubs
+
+
+
+01. desination_retail.csv:
+
+https://drive.google.com/file/d/1B8M7m86rQg2sx2TsHhFa2d-x-dZ1DbSy/view
+
+
+
+01. postcodes_to_boroughs.csv:
+
+https://www.doogal.co.uk/london_postcodes.php

@@ -1,0 +1,34 @@
+Origin,Raw Score,Rebased Score,Grade,Activity Category
+Barnet,0.0,0.0,F,Retail
+Bromley,0.0,0.0,F,Retail
+Richmond upon Thames,1.0,2.127659574468085,F,Retail
+Hillingdon,1.5,3.1914893617021276,F,Retail
+Harrow,2.0,4.25531914893617,F,Retail
+Barking and Dagenham,2.0,4.25531914893617,F,Retail
+Ealing,2.5,5.319148936170213,F,Retail
+Kingston upon Thames,3.0,6.382978723404255,F,Retail
+Waltham Forest,3.5,7.446808510638298,F,Retail
+Brent,3.5,7.446808510638298,F,Retail
+Croydon,4.5,9.574468085106384,F,Retail
+Redbridge,5.0,10.638297872340425,E,Retail
+Greenwich,5.5,11.702127659574469,E,Retail
+Merton,5.5,11.702127659574469,E,Retail
+Wandsworth,6.0,12.76595744680851,E,Retail
+Bexley,6.5,13.829787234042554,E,Retail
+Newham,6.5,13.829787234042554,E,Retail
+Enfield,7.5,15.957446808510639,E,Retail
+Tower Hamlets,8.0,17.02127659574468,E,Retail
+Sutton,8.5,18.085106382978726,E,Retail
+Lewisham,8.5,18.085106382978726,E,Retail
+Southwark,8.5,18.085106382978726,E,Retail
+Hackney,9.0,19.148936170212767,E,Retail
+Havering,10.5,22.340425531914892,D,Retail
+Lambeth,10.5,22.340425531914892,D,Retail
+Hounslow,11.5,24.46808510638298,D,Retail
+Haringey,12.5,26.595744680851062,D,Retail
+Hammersmith and Fulham,13.0,27.659574468085108,D,Retail
+Islington,13.5,28.723404255319153,D,Retail
+Camden,15.0,31.914893617021278,D,Retail
+Kensington and Chelsea,26.0,55.319148936170215,C,Retail
+Westminster,33.5,71.27659574468085,B,Retail
+City of London,47.0,100.0,A+,Retail
